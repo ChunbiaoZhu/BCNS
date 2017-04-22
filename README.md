@@ -6,6 +6,8 @@ April 19-21, 2017
 
 Salient Object Detection with Complex Scene based on Cognitive Neuroscience
 
+WebPage: https://chunbiaozhu.github.io/BCNS/
+
 Chunbiao Zhu1, Ge Li1*, Ronggang Wang1, Wenmin Wang1
 
 1School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, Shenzhen, China
