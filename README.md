@@ -1,4 +1,4 @@
-bigMM2017 - The Third IEEE International Conference on Multimedia Big Data
+BigMM2017 - The Third IEEE International Conference on Multimedia Big Data
 
 Laguna Hills, California, USA  
 
@@ -17,6 +17,8 @@ run demo.m show the saliency detection result.
 If you use our codes,please cite this paper!
 
 If you have any question,please email us!
+
+Zhu C, Li G, Wang W, et al. Salient Object Detection with Complex Scene based on Cognitive [C]// IEEE Third International Conference on Multimedia Big Data. IEEE, 2017. 
 
 Email: zhuchunbiao@pku.edu.cn,*geli@ece.pku.edu.cn
 
