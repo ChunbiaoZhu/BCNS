@@ -25,7 +25,7 @@ Contacts
 ================
 Please cite the following publication if you used or was inspired by this code/work:
 
-Zhu C, Li G, Wang W, et al. Salient Object Detection with Complex Scene based on Cognitive [C]// IEEE Third International Conference on Multimedia Big Data. IEEE, 2017. 
+Zhu C, Li G, Wang W, et al. Salient Object Detection with Complex Scene based on Cognitive [C]// IEEE Third International Conference on Multimedia Big Data. IEEE, 2017:33-37.
 
 If you have any question,please email us!
 
